@@ -245,9 +245,9 @@ Page({
 非常感谢您的支持！如果您喜欢WeiMall，请将它介绍给自己的朋友，或者帮助他人安装一个DiyGw，又或者写一篇赞扬我们的文章。WeiMall是对ThinkPHP的传承和新的传奇。由WeiMall开发团队完成开发。如果您愿意支持我们的工作，欢迎您对DiyGw进行捐赠。
 #### 支付宝捐赠（收款人：luckyzf@126.com）
 [![微信小程序商城解决方案](http://static.html580.com/assets/images/alipay.gif "微信小程序商城解决方案")](http://www.diygw.com "微信小程序商城解决方案")
-
 #### 微信捐赠（收款人：html580网站-邓志锋付钱）
-[![微信小程序商城解决方案](http://static.html580.com/assets/images/weixin-pay.gif"微信小程序商城解决方案")](http://www.diygw.com "微信小程序商城解决方案")
+[![微信小程序商城解决方案](http://static.html580.com/assets/images/weixin-pay.gif "微信小程序商城解决方案")](http://www.diygw.com "微信小程序商城解决方案")
+
 
 
 如果您对WeiMall有任何建议、想法、评论或发现了bug，请联系我们280160522@qq.com。
