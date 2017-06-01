@@ -233,7 +233,14 @@ Page({
 ```
 
 ## 项目截图:
+[![微信小程序商城解决方案](https://github.com/html580/weimall/blob/master/screenshot/1.png "微信小程序商城解决方案")](http://www.diygw.com "微信小程序商城解决方案")
+[![微信小程序商城解决方案](https://github.com/html580/weimall/blob/master/screenshot/2.png "微信小程序商城解决方案")](http://www.diygw.com "微信小程序商城解决方案")
+[![微信小程序商城解决方案](https://github.com/html580/weimall/blob/master/screenshot/3.png "微信小程序商城解决方案")](http://www.diygw.com "微信小程序商城解决方案")
+[![微信小程序商城解决方案](https://github.com/html580/weimall/blob/master/screenshot/4.png "微信小程序商城解决方案")](http://www.diygw.com "微信小程序商城解决方案")
+[![微信小程序商城解决方案](https://github.com/html580/weimall/blob/master/screenshot/5.png "微信小程序商城解决方案")](http://www.diygw.com "微信小程序商城解决方案")
+[![微信小程序商城解决方案](https://github.com/html580/weimall/blob/master/screenshot/5.png "微信小程序商城解决方案")](http://www.diygw.com "微信小程序商城解决方案")
 
+## 感谢:
 
 感谢开源作者：[m-mall](https://github.com/skyvow/m-mall)
 
