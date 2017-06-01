@@ -1,0 +1,48 @@
+.classify {
+	width: 100%;
+	height: 100%;
+	display: flex;
+	overflow: hidden;
+}
+
+.nav_left {
+	width: 25%;
+	background: #F6F6F9;
+}
+
+.nav_right {
+	width: 75%;
+	background: #fff;
+	padding: 10px;
+}
+
+.nav_right .title {
+	font-size: 12px;
+	font-weight: bold;
+    color: #666;
+    padding-bottom: 10px;
+}
+
+.nav_left_item {
+	color: #7c7c7c;
+	font-size: 26rpx;
+	width: 100%;
+	padding: 20rpx 0;
+	text-align: center;
+}
+
+.nav_left_item.active {
+	background: #fff;
+    position: relative;
+}
+
+.nav_left_item.active:before {
+    content: " ";
+    position: absolute;
+    display: block;
+    width: 2px;
+    height: 100%;
+    background: #e21323;
+    top: 0;
+    left: 0;
+}
