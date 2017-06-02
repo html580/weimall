@@ -1,7 +1,7 @@
 <view class="start">
 	<swiper class="swiper_box" indicator-dots="{{ indicatorDots }}" autoplay="{{ autoplay }}" current="{{ current }}" interval="{{ interval }}" duration="{{ duration }}" circular="{{ circular }}" bindchange="swiperchange">
 	    <swiper-item>
-            <image src="http://xcx.diygw.com/public/static/uploads/picture/start.png" class="slide-image" bindload="bindload" />
+            <image src="{{fileBasePath}}/public/static/uploads/picture/start.png" class="slide-image" bindload="bindload"/>
         </swiper-item>
 	</swiper>
 </view>

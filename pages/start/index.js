@@ -8,6 +8,7 @@ Page({
         interval: 3000,
         duration: 1000,
         circular: !1,
+        fileBasePath: App.Config.fileBasePath
     },
     onLoad() {},
     onShow() {},
